@@ -3,6 +3,9 @@
   "description": "index.tsx 汉化配置",
   "replacements": {
     "\"Disable code concealment\"": "\"禁用代码隐藏 (Disable code concealment)\"",
-    "\"Enable code concealment\"": "\"启用代码隐藏 (Enable code concealment)\""
+    "\"Enable code concealment\"": "\"启用代码隐藏 (Enable code concealment)\"",
+    "title: \"Go to child session\"": "title: \"前往子会话 (Go to child session)\"",
+    "\"Hide generic tool output\"": "\"隐藏通用工具输出 (Hide generic tool output)\"",
+    "\"Show generic tool output\"": "\"显示通用工具输出 (Show generic tool output)\""
   }
 }

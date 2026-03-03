@@ -3,6 +3,10 @@
   "description": "tips.tsx 汉化配置",
   "replacements": {
     "\"Create {highlight}.ts{/highlight} files in {highlight}.opencode/tools/{/highlight} to define new LLM tools\"": "\"在 {highlight}.opencode/tools/{/highlight} 中创建 {highlight}.ts{/highlight} 文件来定义新的 LLM 工具\"",
-    "\"Configure {highlight}steps{/highlight} to limit agentic iterations per request\"": "\"配置 {highlight}步骤{/highlight} 以限制每个请求的代理迭代次数\""
+    "\"Configure {highlight}steps{/highlight} to limit agentic iterations per request\"": "\"配置 {highlight}步骤{/highlight} 以限制每个请求的代理迭代次数\"",
+    "\"Create {highlight}opencode.json{/highlight} for server settings and {highlight}tui.json{/highlight} for TUI settings\"": "创建 {highlight}opencode.json{/highlight} 用于服务器设置，{highlight}tui.json{/highlight} 用于终端界面设置",
+    "\"Place TUI settings in {highlight}~/.config/opencode/tui.json{/highlight} for global config\"": "将终端界面设置放入 {highlight}~/.config/opencode/tui.json{/highlight} 实现全局配置",
+    "\"Override any keybind in {highlight}tui.json{/highlight} via the {highlight}keybinds{/highlight} section\"": "通过 {highlight}keybinds{/highlight} 部分覆盖 {highlight}tui.json{/highlight} 中的任意快捷键",
+    "\"Enable {highlight}scroll_acceleration{/highlight} in {highlight}tui.json{/highlight} for smooth macOS-style scrolling\"": "在 {highlight}tui.json{/highlight} 中启用 {highlight}scroll_acceleration{/highlight} 实现 macOS 风格的平滑滚动"
   }
 }
